@@ -910,6 +910,11 @@ figure {
   margin-bottom: 30px;
 }
 
+.contact-page-socials{
+  position: relative;
+  margin-left: 80%;
+}
+
 .fh5co-testimonial {
   position: relative;
   background: #fff;
